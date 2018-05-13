@@ -1,9 +1,13 @@
+Никнейм телеграм бота
+-------------
+PCMF_bot
+
 Требования
 -------------
 
 * Python:
 
-  - CPython_ : 2.7 and >= 3.4
+  - CPython_ : 3.4 и новее
   - PyPy_ : Latest version
 
 * MySQL Server:
