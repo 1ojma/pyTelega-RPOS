@@ -21,7 +21,7 @@
 ------------
 
 
-    $ pip install PyMySQL
+	$ pip install PyMySQL
 
 	$ pip install pyTelegramBotAPI
 	
