@@ -20,6 +20,7 @@
 Установка необходимых пакетов для Python
 ------------
 
+
     $ pip install PyMySQL
 
 	$ pip install pyTelegramBotAPI
@@ -30,9 +31,13 @@
 Для запуска бота на собственном сервере также необходимы
 ------------
 
+* Apache HTTP Server:
 
-	-Apache HTTP Server
-	-phpMyAdmin
+  - Apache_ : >=2.2.x
+ 
+* phpMyAdmin:
+
+  - phpMyAdmin_: 4.0 and >= 4.8
 	
 	
 .. _Apache: http://httpd.apache.org/
